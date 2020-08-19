@@ -2,6 +2,10 @@
 
 All notable changes to `glorand/laravel-model-settings` will be documented in this file
 
+## 3.6.6 - 2020-08-19
+### Added
+-  Ability to load default settings from config
+
 ## 3.6.5 - 2020-05-07
 ### Fix
 - code refactor

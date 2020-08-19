@@ -1,8 +1,12 @@
 {
-    "name": "glorand/laravel-model-settings",
+    "name": "centire/laravel-model-settings",
     "description": "Model Settings for your Laravel app",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Nivesh",
+            "email": "hey@nive.sh"
+        },
         {
             "name": "Lorand Gombos",
             "email": "gombos.lorand@gmail.com"
